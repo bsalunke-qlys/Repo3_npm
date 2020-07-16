@@ -1,5 +1,5 @@
 FROM alpine:latest
-AUTHOR test@qlys.com
+EXPOSE 8080
 #RUN apk add --update nodejs npm
 #RUN npm install -g mongodb
 #RUN npm install -g needle
